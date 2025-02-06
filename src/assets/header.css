@@ -1,0 +1,9 @@
+.header{
+
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 10px;
+    background-color: darkgoldenrod;
+}

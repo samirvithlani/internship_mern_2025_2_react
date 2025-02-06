@@ -6,7 +6,7 @@ export const Content = () => {
     var isActive = false;
   
   return (
-    <div>
+    <div style={{backgroundColor:"GrayText",height:"500px",width:"100%",textAlign:"center"}}>
          <h1>Hello</h1>
       {name}
       <h1>Name ={name}</h1>
