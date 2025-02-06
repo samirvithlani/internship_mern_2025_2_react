@@ -1,0 +1,12 @@
+
+variable....
+component
+    class based component
+    funcation based component 16.x
+    goto mplace : react --> ES7+ install
+
+    all comp name must starts with Cap
+    Home
+
+cust component
+styling
