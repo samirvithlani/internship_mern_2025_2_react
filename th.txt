@@ -15,3 +15,5 @@ task:06/02/2025
 
 Navbar: 
 AboutUs: about me: right side :image
+
+array:
