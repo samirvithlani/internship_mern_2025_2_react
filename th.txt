@@ -17,3 +17,25 @@ Navbar:
 AboutUs: about me: right side :image
 
 array:
+
+07/02/2025
+
+players:
+id,name,score,gender,isActive = true,false,age
+
+mark all retired player as yellow,,
+score >=100 color : green
+
+if age>35 --> please retire..
+
+product:
+id
+name
+price
+discount %
+category:
+
+mark all category red if it is fashion
+product 50% > then make product name green
+
+
