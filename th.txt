@@ -50,3 +50,7 @@ DOM:
 
 
 useState:
+
+2 component:
+1) 5 min fil:
+2)
