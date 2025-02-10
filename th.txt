@@ -39,3 +39,14 @@ mark all category red if it is fashion
 product 50% > then make product name green
 
 
+Virtual dom:
+
+
+
+js --> html -->
+
+:hooks
+DOM:
+
+
+useState:
