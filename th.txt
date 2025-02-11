@@ -54,3 +54,18 @@ useState:
 2 component:
 1) 5 min fil:
 2)
+
+
+react-routing...
+
+npm install react-router-dom
+<BrowserRouter>
+<Routes>
+    <Route>
+<Routes>
+
+
+main.jsx --><BrowserRouter>
+comp --> Navbar.jsx --> copy -->boot
+hotstar --> folder -->
+        hotstar
