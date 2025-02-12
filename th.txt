@@ -69,3 +69,7 @@ main.jsx --><BrowserRouter>
 comp --> Navbar.jsx --> copy -->boot
 hotstar --> folder -->
         hotstar
+
+
+forms:
+npm i react-hook-form
