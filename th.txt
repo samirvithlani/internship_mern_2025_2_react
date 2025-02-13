@@ -73,3 +73,16 @@ hotstar --> folder -->
 
 forms:
 npm i react-hook-form
+
+{
+    required:{
+        value:true,message:"Name is required*"
+        }
+}
+
+{
+        required:{
+                value:true,
+                message:"Age is required"
+        }
+}
