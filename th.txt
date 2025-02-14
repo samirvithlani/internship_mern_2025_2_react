@@ -86,3 +86,7 @@ npm i react-hook-form
                 message:"Age is required"
         }
 }
+
+
+task:
+login and sighnup:
