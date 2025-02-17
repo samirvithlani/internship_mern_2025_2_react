@@ -90,3 +90,31 @@ npm i react-hook-form
 
 task:
 login and sighnup:
+
+skip:
+
+props
+
+
+API CALLING:
+
+
+
+API : application prog interface
+WEB SERVICE:
+URL:
+
+swiggy: maps  : API --> url
+weather application: URL : 
+
+frontend <<--->>    backend
+
+request methods :   fe          be
+
+GET                              
+POST                            
+PUT
+DELETE
+
+fetch funcation:
+AXIOS package  :
