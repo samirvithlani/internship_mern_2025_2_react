@@ -118,3 +118,9 @@ DELETE
 
 fetch funcation:
 AXIOS package  :
+
+OMDB :
+
+searchMovie:
+
+movieDetail:
