@@ -33,6 +33,7 @@ import { MovieDetail } from './components/apis/omdb/MovieDetail'
 import { UserList } from './components/apis/UserList'
 import { PostApiDemo1 } from './components/apis/PostApiDemo1'
 import { PostApiDemo2 } from './components/apis/PostApiDemo2'
+import { UseEffectDemo } from './components/UseEffectDemo'
 
 
 function App() {
@@ -61,6 +62,7 @@ function App() {
         <Route path ="/userlist" element ={<UserList/>}></Route>
         <Route path ="/postapidemo1" element ={<PostApiDemo1/>}></Route>
         <Route path ="/postapidemo2" element ={<PostApiDemo2/>}></Route>
+        <Route path="/useeffectdemo" element = {<UseEffectDemo/>}></Route>
         {/* <Route path="/*" element ={<h1>ERROR 404</h1>}></Route> */}
         <Route path="/*" element = {<Error404/>}></Route>
       </Routes>

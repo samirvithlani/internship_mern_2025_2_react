@@ -131,3 +131,15 @@ POST: fe -->data -->be -->
 obj -->
 
 form -->
+
+
+LIFE CYCLE Hooks:
+
+comp ==> mount
+unmount
+
+useEffect: to handle side effect we can use useEffect
+
+
+
+NEw project:-- arch

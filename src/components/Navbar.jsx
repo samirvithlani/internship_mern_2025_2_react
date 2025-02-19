@@ -37,6 +37,12 @@ export const Navbar = () => {
                 POST API DEMO 2
               </Link>
             </li>
+            
+            <li class="nav-item">
+              <Link class="nav-link" to="/useeffectdemo">
+              useeffectdemo 
+              </Link>
+            </li>
             {/* <li class="nav-item">
               <Link class="nav-link" to="/formdemo1">
               formdemo1
@@ -87,6 +93,11 @@ export const Navbar = () => {
               search movie
               </Link>
             </li> */}
+            <li class="nav-item">
+              <Link class="nav-link" to="/searchmovie">
+              search movie
+              </Link>
+            </li>
             <li class="nav-item">
               <Link class="nav-link" to="/userlist">
               user list

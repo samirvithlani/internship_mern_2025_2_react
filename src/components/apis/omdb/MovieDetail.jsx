@@ -1,5 +1,5 @@
 import axios from 'axios'
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 
 export const MovieDetail = () => {
@@ -16,11 +16,15 @@ export const MovieDetail = () => {
 
     }
 
+    useEffect(()=>{
+      getmovieDetail()
+    },[])
+
 
   return (
     <div style={{textAlign:"center"}}>
         <h1>MOVIE DETAIL - {id}</h1>
-        <button onClick={()=>{getmovieDetail()}}>detail</button>
+        {/* <button onClick={()=>{getmovieDetail()}}>detail</button> */}
         <h1>MOVIE NAME = {detail?.Title}</h1>
     </div>
   )
