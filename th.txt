@@ -124,3 +124,10 @@ OMDB :
 searchMovie:
 
 movieDetail:
+
+
+POST: fe -->data -->be -->
+
+obj -->
+
+form -->

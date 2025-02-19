@@ -33,6 +33,11 @@ export const Navbar = () => {
               </Link>
             </li>
             <li class="nav-item">
+              <Link class="nav-link" to="/postapidemo2">
+                POST API DEMO 2
+              </Link>
+            </li>
+            {/* <li class="nav-item">
               <Link class="nav-link" to="/formdemo1">
               formdemo1
               </Link>
@@ -80,6 +85,16 @@ export const Navbar = () => {
             <li class="nav-item">
               <Link class="nav-link" to="/searchmovie">
               search movie
+              </Link>
+            </li> */}
+            <li class="nav-item">
+              <Link class="nav-link" to="/userlist">
+              user list
+              </Link>
+            </li>
+            <li class="nav-item">
+              <Link class="nav-link" to="/postapidemo1">
+              POST API DEMO 1
               </Link>
             </li>
             
